@@ -1,6 +1,6 @@
 #Lambda Expressions
 1+2 #Returns to 3
-"jatin"*2 #Returns to "jatinjatin" 
+"juned"*2 #Returns to "junedjuned" 
 lambda a,b:a+b #Returns to <function <lambda> at 0x000001D848DC45E0>
 
 print("Hello World")
